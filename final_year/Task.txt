@@ -1,0 +1,46 @@
+=========
+||Tasks||
+========================================================================================================================
+	Tast:1  -> R&D for data and make csv 
+	        -> mysql database for test dataset and train dataset.
+	        -> convert mysqldatabase to csv file to train model.	
+		==========
+		||Issues||
+		========================================================================================================
+	 		issue:1 -> to find authenticate data.
+			issue:2 -> not gatting custom data which we want.			
+		============
+		||Solution||
+		========================================================================================================
+			solution:1-> finaly we make dumy data which looks like real and with all the require nulls and blanks.
+	
+	Tast:2  -> R&D
+		-> Algorithum selection for data mine and for get information from data
+		==========
+		||Issues||
+		========================================================================================================
+	 		issue:1 -> to identify which algo is best among this.
+			        -> 1. Support Vectore Classification (SVC)
+			        -> 2. KNearestNeighbors Classifier
+			        -> 3. NaiveBayes Classifier
+		============
+		||Solution||
+		========================================================================================================
+			solution:1-> finaly i take help of my guid and one of my colleague in company.
+	
+	Tast:3  -> Start Development
+		==========
+		||Issues||
+		========================================================================================================
+	 		issue:1-> where to store data.
+			issue:2-> how to reset all system for new pridection.
+			issue:3-> how to make it all flow user understandable.
+		============
+		||Solution||
+		========================================================================================================
+			solution:1-> for data store problem I decide SESSION.
+
+==============
+||Limitation||
+========================================================================================================================
+	Lim:1-> It will take time if data is big
